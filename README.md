@@ -1,16 +1,93 @@
-## Hi there 👋
+<img alt="Coding" src="https://github.com/yashsinghal28" />
 
-<!--
-**yashsinghal28/yashsinghal28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr/>
 
-Here are some ideas to get you started:
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yash+Singhal!;Mern+Stack+Developer+💻;" />
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4 align="center">🚀 Welcome to my GitHub universe! 🚀</h4>
+<h2 align="center">👋 I'm , a passionate MERN stack developer and coding enthusiast from India🌍!</h2>
+
+<br/>
+
+<h2 align="center">👨‍💻 About Me 👨‍💻</h2>
+
+<img align="right" width="250" alt="Coding" src="https://github.com/SaxenaShourya/SaxenaShourya/assets/143955797/3ac3278b-8a5e-46f1-9f9e-c01e3ee3874a" />
+
+<p align="left"> 
+🌟 Passionate MERN Developer 🚀
+</p>
+<p align="left"> 
+🔧 Problem-Solving Extraordinaire 💪
+</p>
+<p align="left"> 
+🌟 Innovation Architect 🛠️
+</p>
+<p align="left"> 
+🎮 Coding Maverick 🕹️
+</p>
+
+📫 Contact Me At **yashhsinghal28@gmail.com**
+
+<h5>
+  🔗 Know more About me on <a href="https://www.linkedin.com/in/yash-singhal-848537226/" target="_blank">LinkedIn</a>
+</h5>
+
+<hr/>
+ 
+<h2 align="center">📚 My Stack 📚</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+</div>
+
+<h2 align="center">🎨 Frontend 🎨</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap,materialui"/>
+    <img src="https://skillicons.dev/icons?i=babel,vite"/>
+</div>
+
+<h2 align="center">⚙️ Backend ⚙️</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongo" />
+</div>
+
+<h2 align="center">⚒️ Tools & Technologies ⚒️</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,firebase,postman" />
+</div>
+<br/>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/yashsinghal28/yashsinghal28/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashsinghal28&show_icons=true&locale=en&layout=compact" alt="yashsinghal28" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashsinghal28&show_icons=true&locale=en" alt="yashsinghal28" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashsinghal28&" alt="yashsinghal28" /></p>
+
+<br/><br/>
+
+<hr/>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting+Us!+💖;Let's+Connect!+🚀;" />
+</h1>
+
+
+<!---
+yashsinghal28/yashsinghal28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
